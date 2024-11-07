@@ -1,0 +1,5 @@
+{
+    "type": "eq",
+    "field": "user_application",
+    "value": "CiscoLiveDemo"
+}
